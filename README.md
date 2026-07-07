@@ -1,0 +1,1 @@
+This is a ML model which predicts the species of the IRIS flowers based on certain parameters to differentiate species. This model is trained and tested on a Iris Flower dataset using both Logistic Regression and KNN.
